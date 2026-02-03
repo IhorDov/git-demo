@@ -1,2 +1,10 @@
 # no .log files
 *.log
+
+#no .db and .bak files
+*.db
+*.bak
+
+# no directory named target and bin
+/target/
+/bin/
